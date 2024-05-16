@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhZrxLYrHUkbeTZcGS5ggUs+qXutuPN6QCXziI/I1Ly1Mh73rymqC85VR9PCBt928G4Wlz7EbEM5Yogvx0gK6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Компот из ананаса\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\stripe.net\\44.7.0\\stripe.net.44.7.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Компот из ананаса\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
